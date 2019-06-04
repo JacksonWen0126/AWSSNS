@@ -12,3 +12,5 @@ Connect to EC2 using putty or Terminal
 ssh -i "['FileName'.pem]" ec2-user@ec2-52-87-211-112.compute-1.amazonaws.com #example command that you can find it on AWS console 
 when you click "Connect" on EC2 serve.
 
+Command: aws configure; 
+#Must specify a region
